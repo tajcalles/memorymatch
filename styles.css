@@ -2,3 +2,35 @@ body {
   background-color: rgb(255, 255, 255);
   font-family: 'Permanent Marker', cursive;
 }
+
+.topbarrow {
+  background-color: rgb(11, 119, 70);
+}
+
+#unicycle {
+  margin-right: 10px;
+  width: 150px;
+  height: 150px;
+}
+
+#bicycle {
+  margin-right: 10px;
+  width: 150px;
+  height: 150px;
+}
+
+#tricycle {
+  width: 150px;
+  height: 150px;
+}
+
+#quadricycle {
+  width: 150px;
+  height: 150px;
+}
+
+hr {
+  height: 3px !important;
+  color: grey !important;
+  background-color: grey !important;
+}
