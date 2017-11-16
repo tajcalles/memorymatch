@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready();
   var match = [];
   var selection = []
     $("img").hide();
